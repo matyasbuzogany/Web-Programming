@@ -1,0 +1,25 @@
+body{
+  padding-left: 30px;
+}
+
+table, th, td{
+  border: 1px solid black;
+}
+
+.biography{
+  color:blue;
+  font-size: 19;
+  font-variant: small-caps;
+}
+
+.math{
+  color:red;
+  font-style: oblique;
+  background-color: black
+}
+
+.fantasy{
+  color:green;
+  font-style: italic;
+  font-weight: bold;
+}

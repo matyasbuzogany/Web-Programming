@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<collection>
+  <link rel="stylesheet" type="text/css" href="books.css"/>
+    <book>
+        <title>Game of Thrones</title>
+        <author>George R. R. Martin</author>
+        <year>1996</year>
+        <category>Fantasy</category>
+        <isbn>978-3-16-148410-0</isbn>
+    </book>
+    <book>
+        <title>Math 101</title>
+        <author>Kurthy Katalin</author>
+        <year>2017</year>
+        <category>Math</category>
+        <isbn>978-3-16-148410-2</isbn>
+    </book>
+    <book>
+        <title>Story of my Life</title>
+        <author>Buzogany Matyas</author>
+        <year>2019</year>
+        <category>Biography</category>
+        <isbn>978-3-16-148410-5</isbn>
+    </book>
+    <book>
+        <title>Harry Potter</title>
+        <author>J. K. Rowling</author>
+        <year>1996</year>
+        <category>Fantasy</category>
+        <isbn>978-3-16-148410-1</isbn>
+    </book>
+
+    <book>
+        <title>Math 201</title>
+        <author>Nagy Ors</author>
+        <year>2016</year>
+        <category>Math</category>
+        <isbn>978-3-16-148410-3</isbn>
+    </book>
+    <book>
+        <title>Mein Kampf</title>
+        <author>Adolf Hitler</author>
+        <year>1942</year>
+        <category>Biography</category>
+        <isbn>978-3-16-148410-4</isbn>
+    </book>
+    <book>
+        <title>Winettou</title>
+        <author>Karl May</author>
+        <year>1996</year>
+        <category>Fantasy</category>
+        <isbn>978-3-16-148410-7</isbn>
+    </book>
+    <book>
+        <title>The treasuer of the silver lake</title>
+        <author>J. K. Rowling</author>
+        <year>1994</year>
+        <category>Fantasy</category>
+        <isbn>978-3-16-148410-8</isbn>
+    </book>
+</collection>
